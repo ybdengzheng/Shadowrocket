@@ -1,5 +1,3 @@
-# Shadowrocket
-Shadowrocket Rules
 本策略基于lazy.conf修改，源配置地址如下：
 https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever/blob/release/lazy.conf
 添加了屏蔽广告的策略：
