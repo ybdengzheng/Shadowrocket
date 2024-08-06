@@ -23,5 +23,4 @@ https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever/tree/release
 https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket
 
 在此鸣谢：
-
 @Johnshall @blackmatrix7
