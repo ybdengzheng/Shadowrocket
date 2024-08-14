@@ -12,10 +12,9 @@ https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/Rules.conf
 ![qrcode](https://github.com/user-attachments/assets/faf02085-0828-430c-8509-fb09ffb7287f)
 
 
-本策略基于如下项目修改：
-
+本策略基于如下项目修改：  
 https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever/tree/release
 https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket
 
-在此鸣谢：
+在此鸣谢：  
 @Johnshall @blackmatrix7
