@@ -1,11 +1,10 @@
-强大的规则，基于懒人配置修改；  
+基于懒人配置修改；  
 修复了懒人配置的多项故障；  
 
 配置功能：  
-指定了阿里与腾讯的DNS；  
 具有一定的广告屏蔽策略；  
 针对国内外主流平台进行了分流；  
-完善的规则，便于更新维护；  
+最完善的规则，便于更新维护；  
 
 规则地址：  
 https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/Rules.conf
