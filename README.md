@@ -3,8 +3,8 @@
 
 配置功能：<br>
 具有一定的广告屏蔽策略；<br>
-针对国内外主流平台进行了分流；<br>
-最完善的规则，便于更新维护；<br>
+针对国内台进行了直连锁定；<br>
+完善的规则，便于更新维护；<br>
 
 规则地址：<br>
 https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/Rules.conf<br>
