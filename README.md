@@ -8,6 +8,10 @@
 使用加密的DoH，屏蔽了HTTPDNS，有效防止DNS泄露；<br>
 完善的规则，配合小火箭自动更新，完全无感分流；<br>
 
+使用说明：<br>
+你所使用的节点，必须包含<新加坡节点>，次需包含<美国节点><日本节点><台湾节点>；<br>
+否则需要自行修改[Proxy Group]！<br>
+
 规则地址：<br>
 https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/Rules.conf<br>
 
