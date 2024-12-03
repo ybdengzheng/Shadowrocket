@@ -7,7 +7,7 @@
 Wechat/Telegram单独分流，规避因IP乱跳而导致的封号风险；<br>
 AI/Apple/Microsoft/Goole单独分流，随心搭配；<br>
 国内地址/国际地址，国内媒体/国际媒体，可单独分流，随心搭配；<br>
-使用加密的DoH，屏蔽了HTTP-DNS，有效防止DNS泄露；<br>
+使用加密的DoH，防止DNS泄露，并有效屏蔽未加密的DNS查询；<br>
 完善的规则，配合Shadowrocket的配置自动更新，一次操作，无须后续；<br>
 
 ##### 使用必看：<br>
