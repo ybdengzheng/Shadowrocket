@@ -11,8 +11,8 @@ AI/Apple/Microsoft/Goole单独分流，随心搭配；<br>
 完善的规则，配合Shadowrocket的配置自动更新，一次操作，无须后续；<br>
 
 ##### 使用必看：<br>
-你所使用的节点，必须包含<新加坡>，可选包含<美国><日本><台湾><香港>；<br>
-否则需要自行修改[Proxy Group]！<br>
+你所使用的节点，最好包含<新加坡>，可选包含<美国><日本><台湾><香港>；<br>
+如不是，则需要自行修改，当然，很简单。<br>
 
 ##### 使用办法：<br>
 打开Shadowrocket，点击[配置]，点击左上角的[扫描]，识别下方的二维码，应用即可；<br>
@@ -20,7 +20,7 @@ AI/Apple/Microsoft/Goole单独分流，随心搭配；<br>
 
 分流办法：<br>
 打开Shadowrocket首页，下拉，选择你想要修改的分流，选择策略即可；<br>
-为了保证完整的接管流量，本策略默认使用<新加坡节点>兜底，请了解；<br>
+为了保证完整的接管流量，本策略默认使用<新加坡节点>兜底，请了解，当然你可以随时修改，很简单；<br>
 
 ##### 规则地址：<br>
 https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/Rules.conf<br>
