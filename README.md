@@ -4,7 +4,6 @@
 ##### 配置功能介绍：<br>
 具有强大的广告拦截功能；<br>
 具有有效的防追踪/劫持功能；<br>
-利用url-test和fallback结合，自动分流，自动灾备；<br>
 Wechat/Telegram单独分流，规避因IP乱跳而导致的封号风险；<br>
 AI/Apple/Microsoft/Goole单独分流，随心搭配；<br>
 国内地址/国际地址，国内媒体/国际媒体，可单独分流，随心搭配；<br>
