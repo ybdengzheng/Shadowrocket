@@ -27,17 +27,15 @@ Apple/Microsoft/Goole单独分流；<br>
 
 ##### 规则地址：<br>
 https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/Rules.conf<br>
-
 ![qrcode](https://github.com/user-attachments/assets/faf02085-0828-430c-8509-fb09ffb7287f)
 
 #### RulesLite.conf
+##### 配置功能介绍：<br>
 基于Rules.conf修改，除不包含策略组外，其余配置完全相同；<br>
 
 ##### 规则地址：<br>
 https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/RulesLite.conf<br>
-
 ![qrcode_raw githubusercontent com](https://github.com/user-attachments/assets/871c0452-5483-4059-b3bf-c66e039d2c2b)
-
 
 #### 本策略依赖如下项目：<br>
 https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket<br>
