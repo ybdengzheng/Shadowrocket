@@ -1,9 +1,6 @@
 ### 懒人必备，开箱即用；<br>
 ### 自动分组，快捷分流；<br>
 
-#### RulesLite.conf
-此配置为简化版，不带策略组；<br>
-
 #### Rules.conf
 ##### 配置功能介绍：<br>
 具有强大的广告拦截功能；<br>
@@ -33,8 +30,17 @@ https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/Rules.conf<br>
 
 ![qrcode](https://github.com/user-attachments/assets/faf02085-0828-430c-8509-fb09ffb7287f)
 
-##### 本策略依赖如下项目：<br>
+#### RulesLite.conf
+基于Rules.conf修改，除不包含策略组外，其余配置完全相同；<br>
+
+##### 规则地址：<br>
+https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/RulesLite.conf<br>
+
+![qrcode_raw githubusercontent com](https://github.com/user-attachments/assets/871c0452-5483-4059-b3bf-c66e039d2c2b)
+
+
+#### 本策略依赖如下项目：<br>
 https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket<br>
 
-##### 鸣谢：<br>
+#### 鸣谢：<br>
 @blackmatrix7
