@@ -1,7 +1,7 @@
 ### 懒人必备，开箱即用；<br>
 ### 自动分组，快捷分流；<br>
 
-#### Rules.conf
+#### Rules.conf - 配置介绍
 ##### 配置功能介绍：<br>
 具有强大的广告拦截功能；<br>
 具有有效的防追踪/劫持功能；<br>
@@ -29,9 +29,9 @@ Apple/Microsoft/Goole单独分流；<br>
 https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/Rules.conf<br>
 ![qrcode](https://github.com/user-attachments/assets/faf02085-0828-430c-8509-fb09ffb7287f)
 
-#### RulesLite.conf
+#### RulesLite.conf - 配置介绍
 ##### 配置功能介绍：<br>
-基于Rules.conf修改，除不包含策略组外，其余配置完全相同；<br>
+基于Rules.conf修改，除不包含策略组以外，其余配置完全相同；<br>
 
 ##### 规则地址：<br>
 https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/RulesLite.conf<br>
