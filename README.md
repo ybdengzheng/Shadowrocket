@@ -48,11 +48,12 @@ https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/RulesLite.conf<
 点击「已安装证书的配置文件」后面ⓘ - HTTPS解密 - 证书后面ⓘ - 复制；<br>
 打开Shadowrocket，点击[配置]，点击新建模块：<br>
 ```
-#!name=证书（名字可更改）
+#!name = 证书（名字可更改）
 [MITM]
-enable=true
-ca-passphrase=证书密码（即「已安装证书的配置文件」的证书密码，默认密码是Shadowrocket）
-ca-p12=证书内容（即剪贴板复制的内容）
+enable = true
+ca-passphrase = Shadowrocket
+# 证书密码（即「已安装证书的配置文件」的证书密码，默认密码是Shadowrocket）
+ca-p12 = 证书内容（即剪贴板复制的内容）
 ```
 #### 模块推荐：
 墨鱼去广告模块：<br>
@@ -64,4 +65,4 @@ https://github.com/ddgksf2013/Modules/raw/main/Adblock.sgmodule<br>
 https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket<br>
 
 #### 鸣谢：<br>
-@blackmatrix7
+@blackmatrix7 @ddgksf2013
