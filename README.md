@@ -5,7 +5,7 @@
 ##### 配置功能介绍：<br>
 基于Rules.conf修改，除不包含策略组以外，其余配置完全相同；<br>
 如不需要策略组，建议使用此配置；<br>
-具体功能参考下方的：[Rules.conf - 配置介绍](#Rules.conf - 配置介绍)
+具体功能参考下方的：[Rules.conf - 配置介绍]
 
 ##### 规则地址：<br>
 https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/RulesLite.conf<br>
@@ -39,11 +39,12 @@ Apple/Microsoft/Goole单独分流；<br>
 https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/Rules.conf<br>
 ![qrcode](https://github.com/user-attachments/assets/faf02085-0828-430c-8509-fb09ffb7287f)
 
-#### MITM&证书模块
-建议开启MITM，搭配MITM才能最大化的去除广告；<br>
+#### MitM&证书模块
+建议开启MitM，搭配MitM才能最大化的去除广告；<br>
 建议添加证书模块，避免因配置变化导致证书失效；<br>
+证书信任之后，请勿在设置中移除证书，否则MitM将会失效；<br>
 证书模块添加成功后，“HTTPS解密”开关将不再重要，默认开启（模块的优先级高于配置）；<br>
-开启办法：
+MitM开启办法：
 点击配置文件ⓘ - HTTPS解密 - 证书 - 生成新的CA证书 - 安装证书；<br>
 系统设置 - 已下载描述文件 - 安装；<br>
 系统设置 - 通用 - 关于本机 - 证书信任设置 - 开启对应Shadowrocket证书信任；<br>
@@ -56,6 +57,7 @@ enable = true
 ca-passphrase = 证书密码（即「已安装证书的配置文件」的证书密码，默认密码是Shadowrocket）
 ca-p12 = 证书内容（即剪贴板复制的内容）
 ```
+
 #### 模块推荐：
 墨鱼去广告模块：<br>
 复制如下链接：<br>
