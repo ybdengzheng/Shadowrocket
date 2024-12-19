@@ -51,8 +51,7 @@ https://raw.githubusercontent.com/XiangwanGuan/Shadowrocket/main/RulesLite.conf<
 #!name = 证书（名字可更改）
 [MITM]
 enable = true
-ca-passphrase = Shadowrocket
-# 证书密码（即「已安装证书的配置文件」的证书密码，默认密码是Shadowrocket）
+ca-passphrase = 证书密码（即「已安装证书的配置文件」的证书密码，默认密码是Shadowrocket）
 ca-p12 = 证书内容（即剪贴板复制的内容）
 ```
 #### 模块推荐：
@@ -60,6 +59,7 @@ ca-p12 = 证书内容（即剪贴板复制的内容）
 复制如下链接：<br>
 https://github.com/ddgksf2013/Modules/raw/main/Adblock.sgmodule<br>
 打开Shadowrocket，点击[配置]，点击右上角的加号，粘贴，下载即可；<br>
+多规则的模块建议放置在最下方；<br>
 
 #### 本策略依赖如下项目：<br>
 https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket<br>
